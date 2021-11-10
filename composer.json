@@ -1,0 +1,13 @@
+{
+  "name": "juanmalonso/nbsflow-engine",
+  "description": "Description of project juanmalonso/nbsflow-engine",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Juan Manuel Alonso Vallovera",
+      "email": "manialonso@gmail.com"
+    }
+  ],
+  "require": {}
+}
